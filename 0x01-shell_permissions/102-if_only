@@ -1,2 +1,3 @@
 #!/bin/bash
-chown _from = guillaume betty
+chown -from=guillaume betty
+
